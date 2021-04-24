@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.min.css'
  class Header extends Component {
     render() {
         return (
-    
     <Form style={{margin:10}}>
         <Container fluid>
 <Row>

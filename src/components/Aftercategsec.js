@@ -2,9 +2,10 @@ import React from 'react'
 import {Button, Alert, Breadcrumb,Card,Form,Container, Row, Col, Navbar} from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
 
- function Aftercategsec() {
+ function Aftercategsec() { 
     return (
         <div style={{margin:10}}>
+           
            <Container fluid>
              <Row style={{marginTop:`2%`}}>
                  <Col>
